@@ -8,4 +8,4 @@ Your streaming software may require a plugin to allow it to access an NDI source
 
 For any questions, comments, suggestions, etc, please email me directly (joshua@penman.dev).
 
-<b>If you end up using this in your congregation or FoT site, I'd ❤️ to hear about it, so let me know at that address too!</b>
+<b>If you end up using this in your congregation or FoT site, I'd love to hear about it, so let me know at that address too!</b>
